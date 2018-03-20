@@ -1,5 +1,4 @@
 // Open/closed principle - Принцип открытости/закрытости
-import UIKit
 
 protocol CanWriteCode {
     func programming() -> String
